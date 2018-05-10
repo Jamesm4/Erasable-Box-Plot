@@ -1,0 +1,40 @@
+html {
+    background-color: cornsilk;
+}
+
+body {
+    margin: 2% 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#title {
+    text-align: center;
+}
+
+svg#box-plot {
+
+    width: 48rem;
+    height: 30rem;
+
+}
+
+line {
+
+    stroke-width: 1px;
+    stroke: black;
+
+}
+
+circle {
+
+    opacity: 0;
+
+}
+
+text {
+
+    text-anchor: middle;
+
+}
